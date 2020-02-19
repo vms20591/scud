@@ -1,6 +1,4 @@
-# SCUD - Server <- Curate 
-#          \ 
-#           *-------> Details
+# SCUD - Curate Server Details
 
 An absolutely trivial tool to store server details. By details I mean the usual jam - host, user/pass, identity file location (right, that's a big no no!). But anyway, this is a tool for the extreme lazy, who want to quickly connect to one of the insane amount of servers bestowed upon oneself to look after.
 
